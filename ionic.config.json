@@ -1,0 +1,7 @@
+{
+  "name": "syntry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
